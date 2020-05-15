@@ -1,0 +1,12 @@
+*.csv
+*.zip
+*.pth
+cifar-10-batches-py
+*.dat
+*.ckpt
+*.swp
+*.swo
+*.npy
+*.tar.gz
+*.tar
+*.gz
