@@ -1,4 +1,5 @@
 *.csv
+*.pkl
 *.zip
 *.pth
 cifar-10-batches-py
@@ -7,6 +8,7 @@ cifar-10-batches-py
 *.swp
 *.swo
 *.npy
+*.npz
 *.tar.gz
 *.tar
 *.gz
